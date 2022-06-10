@@ -4,11 +4,11 @@
 
 ## About
 
-This public workspace serves as a means to aggregate the development and designs for the Go Baby Go 
+This public group serves as a means to aggregate the development and designs for the Go Baby Go 
 project by the [Center for Bionic Medicine (CBM)](https://www.sralab.org/research/labs/bionic-medicine).
 
-Please note that this workspace is not officially associated with the Shirley Ryan AbilityLab but is 
-a volunteer effort by some of the staff in CBM. All development involves collaboration with:
+Please note that this group is not officially associated with the Shirley Ryan AbilityLab but is a 
+volunteer effort by some of the staff in CBM. All development involves collaboration with:
    - [Illinois Spina Bifida Association](https://i-sba.org)
    - [Kiwanis Club River Forest-Oak Park](https://www.kiwanisclubrfop.org)
 
@@ -20,7 +20,7 @@ created here.
 
 ## Limitations of Legacy Projects
 
-We shifted to using Git and this workspace on Bitbucket spring of 2022. We have done our best to 
+We shifted to using Git and this group on GitLab spring of 2022. We have done our best to 
 try to capture previous designs but please keep this in mind when looking back through older 
 projects as some of the original designs and references have been lost to time. We still want to 
 publish the materials we have but acknowledge there are some gaps in legacy materials provided.
